@@ -1,2 +1,2 @@
 # RPG
-Repository for my first text-based java game
+Adventure is class with main
